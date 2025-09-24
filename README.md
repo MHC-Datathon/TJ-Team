@@ -9,4 +9,4 @@ Repeat exempt violators before the implementation of ace
 Repeat exempt violators after the implementation of ace
 ![repeat_exempt_after_ace](repeat_exempt_violators_after_ace.png)
 Current vs optimized road speeds
-![Current vs. optimized road speeds](current_vs._optimized_bus_speeds_per_route.png)
+![Current vs. optimized road speeds](current_vs_optimized_road_speeds.png)
