@@ -1,1 +1,1 @@
-![Violations Heatmap](downloads/violations_heatmap.png)
+![Violations Heatmap](violations_heatmap.png)
