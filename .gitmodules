@@ -1,0 +1,3 @@
+[submodule "mta-datathon-2025"]
+	path = mta-datathon-2025
+	url = https://github.com/280jayden/mta-datathon-2025.git
