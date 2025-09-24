@@ -1,4 +1,4 @@
-TO begin, we accessed the data via odata from the MTA database site. Through chunking, we fetched the relevant datasets to use to
+To begin, we accessed the data via odata from the MTA database site. Through chunking, we fetched the relevant datasets to use to
 answer the business questions. Since each dataset contains millions of entries, we sampled 1% from each dataset randomly to simplify the
 computational process while maintaining the integrity of our analysis as each sample would still contain tens of thousands of entries.
 
@@ -9,9 +9,9 @@ Violations heatmap before the implementation of congestion pricing policy
 Violations heatmap after the implementation of congestion pricing policy
 ![violations_after_cbd(violations_after_cbd.png)
 
-In the violation occurrences heatmaps, there is a stark difference between the before and after of the congestion pricing policy.
+In the violation occurrences heatmaps, there is a slight difference between the before and after of the congestion pricing policy.
 In the before, we notice concentrated areas in lower Manhattan and the Bronx. However, in the after, we noticed
-how the blue violations region gets spread out more evenly and is far less concentrated through the city.
+how the blue violations region less slightly less widespread through the city.
 
 Repeat exempt violators before the implementation of ace
 ![repeat_exempt_before_ace](repeat_exempt_violators_before_ace.png)
