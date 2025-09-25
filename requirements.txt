@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+sodapy
+requests
+python-dotenv
+geopandas
+shapely
+folium
+pyarrow
+fastparquet
+tqdm
+jupyter
